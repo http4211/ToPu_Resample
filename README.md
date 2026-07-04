@@ -4,7 +4,7 @@
 
 トポロジーを大きく作り直さず、必要な部分だけ **増やす・減らす・整える・なめらかにする** ことを目的にしています。
 
-このアドオンは **Anton Vashkevich** 氏による **AV: ResampleMesh v1.1.9** のリサンプルとスムーズ機能の改変版で、主にリサンプルに特化した形で**GPL-3.0-or-later** として公開しています。
+このアドオンは **Anton Vashkevich** 氏による **AV: ResampleMesh v1.1.9** のリサンプルとスムーズ機能を参考に作成して、主にリサンプルに特化した形で**GPL-3.0-or-later** として公開しています。
 
 ---
 
@@ -191,7 +191,7 @@
 
 ## クレジット
 
-ToPu_Resample は、以下のアドオンを元にした改変版です。
+ToPu_Resample は、以下のアドオンを参考に作成しています。
 
 ```text
 AV: ResampleMesh v1.1.9
@@ -201,9 +201,9 @@ License: GPL-3.0-or-later
 Original product page: https://superhivemarket.com/products/resample-mesh
 ```
 
-この改変版は、Anton Vashkevich 氏、AV、Superhive、Blender Market の公式版・公認版・提携版ではありません。
+このアドオンは、Anton Vashkevich 氏、AV、Superhive、Blender Market の公式版・公認版・提携版ではありません。
 
-この改変版に関する問い合わせや不具合報告を、元作者や販売サイトへ送らないでください。
+このアドオンに関する問い合わせや不具合報告を、Anton Vashkevich 氏や販売サイトへ送らないでください。
 
 ---
 
