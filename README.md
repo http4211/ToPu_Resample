@@ -167,11 +167,10 @@ ToPu_ViewSmooth と同じ考え方の、2つの値だけで調整するスムー
 - **ToPu_Resample**：ToPu4211 / ToPu contributors
 - 元になったUIとスムーズ：**AV: ResampleMesh v1.1.9**（Anton Vashkevich, 2024）
 - リサンプルの計算部分：**[Loop Resample v1.0.1](https://github.com/YLIANG021/Loop-Resample)**（YLIANG）を統合・修正
-- HUDのデザイン：ToPu_PathExtrude をベース
 
 ライセンスは **GPL-3.0-or-later** です。全文は [LICENSE](LICENSE) を参照してください。
 元になった作品の作者による公式版・公認版ではありません。
-変更履歴は [CHANGELOG.md](CHANGELOG.md)、ソースの構成は [SOURCE_COMPOSITION.md](SOURCE_COMPOSITION.md)、検証内容は [VALIDATION.md](VALIDATION.md) を参照してください。
+変更履歴は [CHANGELOG.md](CHANGELOG.md)、検証内容は [VALIDATION.md](VALIDATION.md) を参照してください。
 
 ---
 
@@ -222,4 +221,4 @@ Meshes with shape keys, Skin vertex data and multi-object editing are not suppor
 
 ### License and credits
 
-GPL-3.0-or-later. Based on **AV: ResampleMesh v1.1.9** (Anton Vashkevich) and **[Loop Resample v1.0.1](https://github.com/YLIANG021/Loop-Resample)** (YLIANG); HUD design based on ToPu_PathExtrude. Not an official or endorsed version by the original authors. See [CHANGELOG.md](CHANGELOG.md) for changes.
+GPL-3.0-or-later. Based on **AV: ResampleMesh v1.1.9** (Anton Vashkevich) and **[Loop Resample v1.0.1](https://github.com/YLIANG021/Loop-Resample)** (YLIANG). Not an official or endorsed version by the original authors. See [CHANGELOG.md](CHANGELOG.md) for changes.
