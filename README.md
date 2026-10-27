@@ -1,7 +1,7 @@
 # ToPu_Resample
 
 [![Blender](https://img.shields.io/badge/Blender-4.2%2B-F5792A?logo=blender&logoColor=white)](https://www.blender.org/)
-[![Version](https://img.shields.io/badge/version-1.30.0-blue)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-1.30.1-blue)](CHANGELOG.md)
 [![License](https://img.shields.io/badge/License-GPL--3.0--or--later-blue.svg)](#ライセンスとクレジット)
 
 **選択した辺列・ループの頂点数を、形とUVを保ったまま増減するBlenderアドオンです。**
@@ -165,7 +165,6 @@ ToPu_ViewSmooth と同じ考え方の、2つの値だけで調整するスムー
 ### ライセンスとクレジット
 
 - **ToPu_Resample**：ToPu4211 / ToPu contributors
-- 元になったUIとスムーズ：**AV: ResampleMesh v1.1.9**（Anton Vashkevich, 2024）
 - リサンプルの計算部分：**[Loop Resample v1.0.1](https://github.com/YLIANG021/Loop-Resample)**（YLIANG）を統合・修正
 
 ライセンスは **GPL-3.0-or-later** です。全文は [LICENSE](LICENSE) を参照してください。
@@ -221,4 +220,4 @@ Meshes with shape keys, Skin vertex data and multi-object editing are not suppor
 
 ### License and credits
 
-GPL-3.0-or-later. Based on **AV: ResampleMesh v1.1.9** (Anton Vashkevich) and **[Loop Resample v1.0.1](https://github.com/YLIANG021/Loop-Resample)** (YLIANG). Not an official or endorsed version by the original authors. See [CHANGELOG.md](CHANGELOG.md) for changes.
+GPL-3.0-or-later. The resampling core integrates and modifies **[Loop Resample v1.0.1](https://github.com/YLIANG021/Loop-Resample)** (YLIANG). Not an official or endorsed version by the original authors. See [CHANGELOG.md](CHANGELOG.md) for changes.
